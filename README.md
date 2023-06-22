@@ -7,7 +7,7 @@ A language interpreter made in the C programming language to manage stacks and q
 To compile this project, you can use the following command:
 
 ```
-$ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
+$ make
 ```
 
 # Option Codes
